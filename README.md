@@ -1,1 +1,1 @@
-# c-106-face-detect
+# PRO-C106-Student-Boilerplate
